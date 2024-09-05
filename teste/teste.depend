@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1725497491 source:c:\users\1507418\documents\github\estrutura_basica_modelagem\teste\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+
+1725496477 c:\users\1507418\documents\github\estrutura_basica_modelagem\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1725496477 c:\users\1507418\documents\github\estrutura_basica_modelagem\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
