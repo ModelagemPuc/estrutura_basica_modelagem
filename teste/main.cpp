@@ -15,6 +15,11 @@
 
 void desenha(void) {
     glClear( GL_COLOR_BUFFER_BIT );
+    gluOrtho2D(-3, 3, -3, 3);
+    glBegin(GL_LINES);
+        glVertex2f(-2, 0);
+        glVertex2f(2, 0);
+    glEnd();
     glFlush();
 }
 int main(int argc, char* argv[]) {
